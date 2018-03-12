@@ -21,4 +21,4 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Updated again Hello world!
+Updated Hello world!
